@@ -6,7 +6,9 @@ import { TeamSection } from "./components/TeamSection";
 import { ContactSection } from "./components/ContactSection";
 import { Footer } from "./components/Footer";
 import ClientsSection from "./components/ClientsSection";
-
+import "swiper/css";
+import "swiper/css/pagination";
+import "swiper/css/navigation";
 
 const App = () => {
   return (

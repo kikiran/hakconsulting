@@ -1,4 +1,12 @@
- const Testimonials = [
+export interface Testimonial {
+  id: number;
+  name: string;
+  role: string;
+  message: string;
+  avatar?: string;
+}
+
+const Testimonials: Testimonial[] = [
   {
     id: 1,
     name: "Ravi Kumar",
@@ -18,6 +26,5 @@
     message: "Highly reliable and technically strong.",
   },
 ];
-
 
 export default Testimonials;

@@ -1,11 +1,7 @@
-import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 import Testimonials from "../utils/testimonals";
 
-import "swiper/css";
-import "swiper/css/pagination";
-import "swiper/css/navigation";
 
 const ClientsSection = () => {
   return (

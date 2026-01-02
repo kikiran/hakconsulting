@@ -1,4 +1,3 @@
-import React from 'react';
 import MeetingImage from '../assets/images/meeting.jpeg';
 
 export function HeroSection() {

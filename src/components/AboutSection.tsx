@@ -1,4 +1,3 @@
-import React from "react";
 import BusinessWomanImage from "../assets/images/businesswoman.jpeg";
 
 export function AboutSection() {

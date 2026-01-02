@@ -1,4 +1,3 @@
-import React from 'react';
 import PersonImage from "../assets/images/person.jpeg";
 import InvestmentImage from "../assets/images/investment.jpeg";
 import WealthImage from "../assets/images/wealth.jpeg";
